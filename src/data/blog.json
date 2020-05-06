@@ -1,0 +1,39 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogTitle" : "Ferrari 488 Spider",
+            "slug": "fitness-mantra-to-live-fit-life",
+            "blogImage": "fitness-blog-post.jpg",
+            "blogText": "Ferrari 488 Spider is the base petrol variant in the 488 lineup and is priced at Rs. 4.40 crore (ex-showroom, Chirawa). This base variant comes with an engine putting out 659.78bhp@8000rpm and 760Nm@6750 rpm of max power and max torque respectively. The gasoline motor comes mated to 7 Speed Automatic transmission which is quite a joy to use. Ferrari claims an average of 7.8 kmpl for this base Spider variant."
+        },
+        {
+            "id" : 2,
+            "blogTitle": "Range Rover",
+            "slug": "beautiful-and-special-moment",
+            "blogImage": "beautiful-&-simple.jpg",
+            "blogText": "Land Rover has launched the 2020 Range Rover Evoque with prices starting from Rs 54.94 lakh to Rs 59.85 lakh (ex-showroom). It is offered with a single diesel engine option and in two trim levels. The 2.0-litre diesel motor develops 180PS and 430Nm. It’s offered with an all-wheel drive system and 9-speed automatic transmission."
+        },
+        {
+            "id": 3,
+            "blogTitle": "Toyota Corolla",
+            "slug": "beauti-lies-within-special",
+            "blogImage": "affection-baby-baby-girl-beautiful-377058.jpg",
+            "blogText": "The Corolla Altis was retailed between Rs. 16.46 lakh and Rs. 20.20 lakh (ex-showroom), and it used 1.8-litre petrol and 1.4-litre diesel engines. ... The five-seater could go on sale in April 2020 with a slightly modified exterior and a 1.5-litre four-cylinder SHVS petrol engine kicking out 104.7 PS and 138 Nm."
+            },
+             {
+            "id": 4,
+            "blogTitle": "Ford Escape",
+            "slug": "sliding-my-way-to-life",
+            "blogImage": "cestovat-chladny-dno-jednoduchost-2868847.jpg",
+            "blogText": "In its third iteration, the Ford Escape is based on the C2 platform which also underpins the Ford Focus hatchback range. The styling of the Escape resembles its siblings in India. A wide trapezoidal honeycomb grille designed similar to the one seen on the Ford hatchback here.The headlamp assembly houses a twin projector setup with sharp LED DRLs. The stance of the Escape is high, however, its compact design language gives it a more crossover-like appearance. The rear has wrap-around tail lamps and the Escape gets twin exhaust tips."
+        },
+        {
+            "id": 5,
+            "blogTitle": "Honda City",
+            "slug": "memories-from-last-summer",
+            "blogImage": "memories-from.jpg",
+            "blogText": "The City comes with equipment like a 7-inch touchscreen infotainment system with Apple CarPlay and Android Auto, an 8-speaker sound system, automatic climate control, leather upholstery as well as cruise control. Safety features consist of dual front airbags,side and curtain airbags as well as ABS+EBD. As far as safety is concerned, the City now gets reverse parking sensors as standard equipment. All other variants, save for the top-spec ZX get dual airbags and ABS as standard. In the top model, you get side and curtain airbags additionally."
+        }
+    ]
+}
